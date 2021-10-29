@@ -25,12 +25,37 @@
         margin-top: 34px;
     }
 
+    .contacts__item {
+        display: block;
+    }
+
     .contacts__tell{
-        margin-right: 3.125vw;
+        margin-right: 0;
 
     }
 
-    .tell {
+   
+   .tell {
+       min-width: 171px;
+       height: 73px;
+       width: 62.67vw
+   }
+   
+   .mail {
+       margin-top: 9px;
+       min-width: 171px;
+       height: 73px;
+       width: 62.67vw
+   }
+   
+   .adres{
+       min-width: 171px;
+       margin-top: 9px;
+       height: 73px;
+       width: 62.67vw
+   }
+
+    /* .tell {
         min-width: 154px;
         height: 73px;
         width: 29.68vw;
@@ -52,7 +77,7 @@
     .icon__tell{
         width: 22px;
         height: 22px;
-    }
+    } */
     
     .Icon__mail {
         width: 28px;
