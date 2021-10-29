@@ -14,19 +14,19 @@
     }
 
     .logo {
-        height: 85px;
+        height: 17.47vh;
     }
 
     .contacts__title {
         font-size: 48px;
         line-height: 52px;
-        margin-top: 23px;
+        margin-top: 3vh;
     }
 
     .title__discription {
         font-size: 17px;
         line-height: 20px;
-        margin-top: 4.5vh;
+        margin-top: 4vh;
     }
 
     .contacts__footer{
