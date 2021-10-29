@@ -1,4 +1,9 @@
 @media screen and (max-width: 578px){
+
+    html { 
+        overflow: scroll;
+    }
+    
     .container{
         background-image: url(Rectangle576.png);
     }
