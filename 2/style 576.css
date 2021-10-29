@@ -1,11 +1,12 @@
 @media screen and (max-width: 578px){
 
     html { 
-        overflow: scroll;
+        overflow: visible;
     }
     
+
     .container{
-        background-image: url(Rectangle576.png);
+        position: 0;
     }
 
     .main {
@@ -27,7 +28,11 @@
     .title__discription {
         font-size: 17px;
         line-height: 20px;
-        margin-top: 34px;
+        margin-top: 4.5vh;
+    }
+
+    .contacts__footer{
+        margin-top: 3vh;
     }
 
     .contacts__item {
@@ -42,21 +47,21 @@
    
    .tell {
        min-width: 171px;
-       height: 73px;
+       height: 9.125vh;
        width: 62.67vw
    }
    
    .mail {
        margin-top: 9px;
        min-width: 171px;
-       height: 73px;
+       height: 9.125vh;
        width: 62.67vw
    }
    
    .adres{
        min-width: 171px;
-       margin-top: 9px;
-       height: 73px;
+       margin-top: 1vh;
+       height: 9.125vh;
        width: 62.67vw
    }
 
