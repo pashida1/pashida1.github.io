@@ -1,0 +1,26 @@
+@media screen and (max-width: 768px)  {
+
+  
+    .logo {
+        height: 95px;
+    }
+
+
+    .contacts__title {
+        font-size: 64px;
+        line-height: 70px;
+        margin-top: 40px;
+    }
+
+    .title__discription {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .btn{
+        font-size: 14px;
+    }
+
+
+    
+}
