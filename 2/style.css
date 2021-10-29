@@ -8,18 +8,18 @@ a {
 
 @font-face {
     font-family: 'calypsoregular';
-    src: url('../font/calypso-webfont.woff2') format('woff2'),
-         url('../font/Calypso.woff') format('woff'),
-         url('../font/Calypso.otf') format('otf'),
-         url('../font/Calypso.ttf') format('ttf');
+    src: url('calypso-webfont.woff2') format('woff2'),
+         url('Calypso.woff') format('woff'),
+         url('Calypso.otf') format('otf'),
+         url('Calypso.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'lato';
-    src: url('../font/latomedium.woff') format('woff'),
-         url('../font/latomedium.ttf') format('ttf');
+    src: url('latomedium.woff') format('woff'),
+         url('latomedium.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -187,7 +187,7 @@ body {
 .baner__img{
     height: 820px;
     width: 101%;
-    background-image: url("/img/Rectangle.jpg");
+    background-image: url("Rectangle.jpg");
     background-size:contain;
     background-size: 100% auto;
     background-repeat: no-repeat;
