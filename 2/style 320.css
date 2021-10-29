@@ -2,7 +2,7 @@
 
     .container {
         
-        background-color: url(Rectangle576.png) ;
+        background-image: url(Rectangle576.png) ;
     }
 
     .container::before {
@@ -29,13 +29,13 @@
     .contacts__title {
         font-size: 36px;
         line-height: 39px;
-        margin-top: 35px;
+        margin-top: 6vh;
     }
 
     .title__discription {
         font-size: 13px;
         line-height: 15px;
-        margin-top: 37px;
+        margin-top: 7vh;
     }
 
     .contacts__item{
@@ -48,21 +48,21 @@
 
     .tell {
         min-width: 225px;
-        height: 56px;
+        height: 10vh;
         width: 29.68vw;
     }
     
     .mail {
         margin-top: 9px;
         min-width: 225px;
-        height: 56px;
+        height: 10vh;
         width: 29.68vw;
     }
     
     .adres{
         min-width: 225px;
-        margin-top: 9px;
-        height: 56px;
+        margin-top: 1.9vh;
+        height: 10vh;
         width: 62.67vw;
     }
 }
