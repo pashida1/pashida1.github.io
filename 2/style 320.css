@@ -2,7 +2,7 @@
 
     .container {
         
-        background-color: url(../img/Rectangle576.png) ;
+        background-color: url(Rectangle576.png) ;
     }
 
     .container::before {
