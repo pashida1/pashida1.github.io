@@ -9,24 +9,37 @@
 
     .main {
 
-        max-height: 677px;
+        padding: 20px;
 
-    }
+    } 
 
     .logo {
-        height: 85px;
+        height: 45px;
+        /* height: 85px; */
+    }
+
+    .contacts__content {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        /* max-width: 340px; */
     }
 
     .contacts__title {
         font-size: 48px;
-        line-height: 52px;
+        line-height: 48px;
+        /* margin-top: 1vh; */
         margin-top: 23px;
     }
 
     .title__discription {
         font-size: 17px;
         line-height: 20px;
-        margin-top: 4vh;
+        width: 100%;
+        margin: 0; 
+         margin-top: 1vh;
     }
 
     .contacts__footer{
@@ -101,6 +114,6 @@
 
     .btn {
         grid-gap: 6px;
-        font-size: 0.8rem;
+        font-size: 14px;
     }
 }
