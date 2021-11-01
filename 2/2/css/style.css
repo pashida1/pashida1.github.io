@@ -8,7 +8,7 @@ a {
 
 @font-face {
     font-family: 'calypsoregular';
-    src: url('../font/calypso-webfont.woff2') format('woff2'),
+    src: url('../font/calypso-webfont.woff') format('woff2'),
          url('../font/Calypso.woff') format('woff'),
          url('../font/Calypso.otf') format('otf'),
          url('../font/Calypso.ttf') format('ttf');
@@ -187,7 +187,7 @@ body {
 .baner__img{
     height: 820px;
     width: 101%;
-    background-image: url("/img/Rectangle.jpg");
+    background-image: url("../img/Rectangle.jpg");
     background-size:contain;
     background-size: 100% auto;
     background-repeat: no-repeat;
