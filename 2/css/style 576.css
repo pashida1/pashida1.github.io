@@ -15,7 +15,6 @@
 
     .logo {
         height: 45px;
-        /* height: 85px; */
     }
 
     .contacts__content {
@@ -24,13 +23,11 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
-        /* max-width: 340px; */
     }
 
     .contacts__title {
         font-size: 48px;
         line-height: 48px;
-        /* margin-top: 1vh; */
         margin-top: 23px;
     }
 
@@ -39,7 +36,7 @@
         line-height: 20px;
         width: 100%;
         margin: 0; 
-         margin-top: 1vh;
+        margin-top: 1vh;
     }
 
     .contacts__footer{
@@ -76,30 +73,6 @@
        width: 62.67vw
    }
 
-    /* .tell {
-        min-width: 154px;
-        height: 73px;
-        width: 29.68vw;
-    }
-    
-    .mail {
-        min-width: 154px;
-        height: 73px;
-        width: 29.68vw;
-    }
-    
-    .adres{
-        min-width: 318px;
-        margin-top: 9px;
-        height: 73px;
-        width: 62.67vw;
-    }
-
-    .icon__tell{
-        width: 22px;
-        height: 22px;
-    } */
-    
     .Icon__mail {
         width: 28px;
         height: 17px;
